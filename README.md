@@ -1,13 +1,10 @@
 # Florida-Housing-Prediction
 Contributor: Tiffany Chen, Vina Liu, Khoi Thai, PinChu Yin
 ## Responsibility
-EDA
-
-Data cleaning
-
-Spliting and Preprocessing data
-
-K Nearest Neighbors
+1. EDA
+2. Data cleaning
+3. Spliting and Preprocessing data
+4. Built Machine Learning Model: K Nearest Neighbors
 
 ## EDA
 <img width="1033" height="553" alt="image" src="https://github.com/user-attachments/assets/e9ae397d-add5-4b19-872f-ef0e84067bd2" />
